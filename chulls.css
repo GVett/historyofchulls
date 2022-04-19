@@ -34,6 +34,9 @@ table, td, th {
 	border-style: solid;
 	border-weight: 1px;
 }
+.table td, .table th {
+        font-size: 25px;
+}
 .subtext {
 	text-align: center;
 }
