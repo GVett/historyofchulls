@@ -33,7 +33,8 @@ table, td, th {
 	border-style: solid;
 	border-weight: 1px;
 	font-size: 30px;
-	padding: 3px;
+	padding: 6px;
+	text-align: center;
 }
 .subtext {
 	text-align: center;
