@@ -32,8 +32,8 @@ p {
 table, td, th {
 	border-collapse: collapse;
 	border-style: solid;
-	border-weight: 3px;
-	text-size: 40px;
+	border-weight: 1px;
+	text-size: 50px;
 }
 .subtext {
 	text-align: center;
