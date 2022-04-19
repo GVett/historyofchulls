@@ -24,7 +24,6 @@ img {
 	display: block;
  	margin-left: auto;
   	margin-right: auto;
-	width: 70%;
 }
 p {
 	text-size: 30px;
@@ -33,7 +32,7 @@ table, td, th {
 	border-collapse: collapse;
 	border-style: solid;
 	border-weight: 1px;
-	width: 50%;
+	font-size: 30px;
 }
 .subtext {
 	text-align: center;
