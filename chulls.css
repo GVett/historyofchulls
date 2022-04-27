@@ -71,3 +71,7 @@ li a:hover {
 .subtext {
 	text-align: center;
 }
+
+.tableImage {
+	width: 75px;
+}
