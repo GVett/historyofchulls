@@ -4,12 +4,9 @@ body {
 }
 
 h1 {
-	background-color: #57577b;
 	font-weight: bold;
 	text-align: center;
-	font-size: 70px;
-	border-radius: 15px;
-	border-style: solid;
+	font-size: 50px;
 }
 
 h2 {
@@ -36,7 +33,7 @@ p {
 }
 
 table {
-        width: 100%;
+        width: 90%;
 }
 
 table, td, th {
