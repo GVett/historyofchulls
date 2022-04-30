@@ -35,11 +35,15 @@ p {
 	font-size: 20px;
 }
 
+table {
+        width: 100%;
+}
+
 table, td, th {
 	border-collapse: collapse;
 	border-style: solid;
-	border-weight: 3px;
-	font-size: 40px;
+	border-weight: 2px;
+	font-size: 20px;
 }
 
 ul {
