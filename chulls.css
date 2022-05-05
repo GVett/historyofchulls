@@ -58,7 +58,7 @@ li {
 }
 
 li a {
-  	display: block;
+  	display: inline-flex;
   	color: white;
   	text-align: center;
   	padding: 8px 10px;
